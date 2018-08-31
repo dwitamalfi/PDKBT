@@ -84,11 +84,10 @@
                                 <div class="col-md-7">
                                     <div class="post-meta">
                                         <h2><a href="?p=6&id=106">Gerak jalan</a></h2>
-                                        <span><i class="fa fa-tag"></i> Acara : Umum</span><br/>
-                                        <span><i class="fa fa-calendar-check-o"></i> Mulai : 21 Apr 2018 Jam 09:00 WIB</span><br/>
-                                        <span><i class="fa fa-calendar-times-o"></i> Selesai : 21 Apr 2018 Jam 12:00 WIB</span><br/>
-                                        <span><i class="fa fa-map-marker"></i> Tempat : Start Balai Kota </span><br/>
-                                        <span><i class="fa fa-user"></i> Pelaksana : - </span>
+                                        <span><i class="fa fa-tag"></i> Nama Pengumuman : </span><br/>
+                                        <span><i class="fa fa-calendar-check-o"></i> Tanggal : 21 Apr 2018 Jam 09:00 WIB</span><br/>
+                                        
+                                        <span><i class="fa fa-user"></i> Penjelasan : - </span>
                                     </div>
                                     <div >
                                         <p style="text-align:justify ; ">
@@ -107,17 +106,17 @@
                                     </a>
                                 </div>         
                                 <div class="col-md-7">
+                                    <div class="col-md-7">
                                     <div class="post-meta">
-                                        <h2><a href="?p=6&id=104">BATU Art Festival</a></h2>
-                                        <span><i class="fa fa-tag"></i> Acara : Umum</span><br/>
-                                        <span><i class="fa fa-calendar-check-o"></i> Mulai : 20 Apr 2018 Jam 09:00 WIB</span><br/>
-                                        <span><i class="fa fa-calendar-times-o"></i> Selesai : 24 Apr 2018 Jam 22:00 WIB</span><br/>
-                                        <span><i class="fa fa-map-marker"></i> Tempat : Alun-alun Kota Batu</span><br/>
-                                        <span><i class="fa fa-user"></i> Pelaksana : - </span>
+                                        <h2><a href="?p=6&id=106">Gerak jalan</a></h2>
+                                        <span><i class="fa fa-tag"></i> Nama Pengumuman : </span><br/>
+                                        <span><i class="fa fa-calendar-check-o"></i> Tanggal : 21 Apr 2018 Jam 09:00 WIB</span><br/>
+                                        
+                                        <span><i class="fa fa-user"></i> Penjelasan : - </span>
                                     </div>
                                     <div >
-                                        <p style="text-align:justify">
-                                        -
+                                        <p style="text-align:justify ; ">
+                                        -                                                <hr class="invisible short" />
                                         <a href="<?php echo base_url()?>index.php/Read_pengumuman" class="btn btn-xs btn-primary pull-right" id="selengkapnya">Selengkapnya...</a>
                                         </p>
                                     </div>
@@ -132,17 +131,17 @@
                                     </a>
                                 </div>         
                                 <div class="col-md-7">
+                                     <div class="col-md-7">
                                     <div class="post-meta">
-                                        <h2><a href="?p=6&id=103">Senam Massal </a></h2>
-                                        <span><i class="fa fa-tag"></i> Acara : Umum</span><br/>
-                                        <span><i class="fa fa-calendar-check-o"></i> Mulai : 15 Apr 2018 Jam 06:00 WIB</span><br/>
-                                        <span><i class="fa fa-calendar-times-o"></i> Selesai : 15 Apr 2018 Jam 11:00 WIB</span><br/>
-                                        <span><i class="fa fa-map-marker"></i> Tempat : Alun-Alun Batu</span><br/>
-                                        <span><i class="fa fa-user"></i> Pelaksana : </span>
+                                        <h2><a href="?p=6&id=106">Gerak jalan</a></h2>
+                                        <span><i class="fa fa-tag"></i> Nama Pengumuman : </span><br/>
+                                        <span><i class="fa fa-calendar-check-o"></i> Tanggal : 21 Apr 2018 Jam 09:00 WIB</span><br/>
+                                        
+                                        <span><i class="fa fa-user"></i> Penjelasan : - </span>
                                     </div>
                                     <div >
-                                        <p style="text-align:justify">
-                                      <hr class="invisible short" />
+                                        <p style="text-align:justify ; ">
+                                        -                                                <hr class="invisible short" />
                                         <a href="<?php echo base_url()?>index.php/Read_pengumuman" class="btn btn-xs btn-primary pull-right" id="selengkapnya">Selengkapnya...</a>
                                         </p>
                                     </div>
@@ -157,17 +156,17 @@
                                     </a>
                                 </div>         
                                 <div class="col-md-7">
+                                    <div class="col-md-7">
                                     <div class="post-meta">
-                                        <h2><a href="?p=6&id=101">Batu Bershalawat</a></h2>
-                                        <span><i class="fa fa-tag"></i> Acara : Umum</span><br/>
-                                        <span><i class="fa fa-calendar-check-o"></i> Mulai : 14 Apr 2018 Jam 20:00 WIB</span><br/>
-                                        <span><i class="fa fa-calendar-times-o"></i> Selesai : 14 Apr 2018 Jam 23:59 WIB</span><br/>
-                                        <span><i class="fa fa-map-marker"></i> Tempat : </span><br/>
-                                        <span><i class="fa fa-user"></i> Pelaksana : </span>
+                                        <h2><a href="?p=6&id=106">Gerak jalan</a></h2>
+                                        <span><i class="fa fa-tag"></i> Nama Pengumuman : </span><br/>
+                                        <span><i class="fa fa-calendar-check-o"></i> Tanggal : 21 Apr 2018 Jam 09:00 WIB</span><br/>
+                                        
+                                        <span><i class="fa fa-user"></i> Penjelasan : - </span>
                                     </div>
                                     <div >
-                                        <p style="text-align:justify">
-                                                                                      <hr class="invisible short">
+                                        <p style="text-align:justify ; ">
+                                        -                                                <hr class="invisible short" />
                                         <a href="<?php echo base_url()?>index.php/Read_pengumuman" class="btn btn-xs btn-primary pull-right" id="selengkapnya">Selengkapnya...</a>
                                         </p>
                                     </div>
@@ -182,34 +181,47 @@
                                     </a>
                                 </div>         
                                 <div class="col-md-7">
+                                    <div class="col-md-7">
                                     <div class="post-meta">
-                                        <h2><a href="?p=6&id=102">Istbat dan Nikah Masal</a></h2>
-                                        <span><i class="fa fa-tag"></i> Acara : Umum</span><br/>
-                                        <span><i class="fa fa-calendar-check-o"></i> Mulai : 14 Apr 2018 Jam 09:00 WIB</span><br/>
-                                        <span><i class="fa fa-calendar-times-o"></i> Selesai : 14 Apr 2018 Jam 11:00 WIB</span><br/>
-                                        <span><i class="fa fa-map-marker"></i> Tempat : </span><br/>
-                                        <span><i class="fa fa-user"></i> Pelaksana : </span>
+                                        <h2><a href="?p=6&id=106">Gerak jalan</a></h2>
+                                        <span><i class="fa fa-tag"></i> Nama Pengumuman : </span><br/>
+                                        <span><i class="fa fa-calendar-check-o"></i> Tanggal : 21 Apr 2018 Jam 09:00 WIB</span><br/>
+                                        
+                                        <span><i class="fa fa-user"></i> Penjelasan : - </span>
                                     </div>
                                     <div >
-                                        <p style="text-align:justify">
+                                        <p style="text-align:justify ; ">
                                         -                                                <hr class="invisible short" />
                                         <a href="<?php echo base_url()?>index.php/Read_pengumuman" class="btn btn-xs btn-primary pull-right" id="selengkapnya">Selengkapnya...</a>
                                         </p>
                                     </div>
-                                    
                                 </div>
                             </div>
                             <hr /hr>
                         </article>
-                        <ul class="pagination pagination-lg pull-right ">
-                                <li><a href="?p=6&a=1">Previous</a> </li>
-                                <li class=""><a href="#" class="angka previous round"> 1 </a></li>
-                                <li class=""><a href="#" class="angka previous round"> 2 </a></li>
-                                <li class=""><a href="?p=6&a=2" class="angka previous round" >3</a></li>
-                                <li class=""><a href="?p=6&a=21" class="angka previous round" >21</a></li>
-                            <li><a href="?p=6&a=3">Next</a></li> 
-
-                            
+                         <ul class="pagination justify-content-center" style="padding-top: 30px;">
+                            <li class="page-item">
+                              <a class="page-link" href="#" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Previous</span>
+                              </a>
+                            </li>
+                            <li class="page-item">    
+                              <a class="page-link" href="#">1</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#">2</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#">3</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Next</span>
+                              </a>
+                            </li>
+                          </ul>
                          </ul>
                     </div>
                 </div>

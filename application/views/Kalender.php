@@ -182,49 +182,31 @@
                                              <hr class="invisible short" />
                                         </p>
                                     </div>
-<<<<<<< HEAD
                                 </div>
-                            </div>
-                            <br /br>
-                        </article>
-                        <ul class="pagination pagination-lg pull-right ">
-                                <li><a href="?p=6&a=1">Previous</a> </li>
-                                <li class=""><a href="#" class="angka previous round"> 1 </a></li>
-                                <li class=""><a href="#" class="angka previous round"> 2 </a></li>
-                                <li class=""><a href="?p=6&a=2" class="angka previous round" >3</a></li>
-                                <li class=""><a href="?p=6&a=21" class="angka previous round" >21</a></li>
-                            <li><a href="?p=6&a=3">Next</a></li> 
-                         </ul>
-=======
-                                  </div>
-                            </div>
-                          </article>
-                        <ul class="pagination justify-content-center" style="padding-top: 30px;">
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Previous">
-            <span aria-hidden="true">&laquo;</span>
-            <span class="sr-only">Previous</span>
-          </a>
-        </li>
-        <li class="page-item">    
-          <a class="page-link" href="#">1</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">2</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#">3</a>
-        </li>
-        <li class="page-item">
-          <a class="page-link" href="#" aria-label="Next">
-            <span aria-hidden="true">&raquo;</span>
-            <span class="sr-only">Next</span>
-          </a>
-        </li>
-      </ul>
-
->>>>>>> 8d95e52a3a1dd5fe4620869fa6e782689c4f46e2
                     </div>
+                        <ul class="pagination justify-content-center" style="padding-top: 30px;">
+                            <li class="page-item">
+                              <a class="page-link" href="#" aria-label="Previous">
+                                <span aria-hidden="true">&laquo;</span>
+                                <span class="sr-only">Previous</span>
+                              </a>
+                            </li>
+                            <li class="page-item">    
+                              <a class="page-link" href="#">1</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#">2</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#">3</a>
+                            </li>
+                            <li class="page-item">
+                              <a class="page-link" href="#" aria-label="Next">
+                                <span aria-hidden="true">&raquo;</span>
+                                <span class="sr-only">Next</span>
+                              </a>
+                            </li>
+                          </ul>
                 </div>
             </div>
           
